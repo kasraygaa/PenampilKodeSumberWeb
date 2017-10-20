@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">PenampilKodeSumberWeb</string>
+    <string name="button">get source code</string>
+    <string name="indeks">ex: www.kray.ga</string>
+</resources>
